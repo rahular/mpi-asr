@@ -1,4 +1,4 @@
-# es-deepspeech
+# es-mpi
 
 Utilities to run deep speech as a REST API and some MPI tests.
 
