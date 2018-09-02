@@ -1,4 +1,4 @@
-Flask==0.12
+Flask==0.12.3
 numpy==1.15.0
 deepspeech==0.1.1
 librosa==0.5.1
